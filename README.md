@@ -1,4 +1,6 @@
+<div align="center">
 # Rapozillha
+</div>
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp" width="100"/>
