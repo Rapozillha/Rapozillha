@@ -33,7 +33,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rapozillha&theme=dark&date_format=n%2Fj%5B%2FY%5D&card_width=500)](https://git.io/streak-stats)
 
 
 <!--
