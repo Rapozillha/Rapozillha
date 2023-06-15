@@ -1,6 +1,6 @@
-<div align="center">
+<h1 align="center">
 # Rapozillha
-</div>
+</h1>
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp" width="100"/>
