@@ -28,8 +28,6 @@
 
 - 🌍: Live in Portugal
 
-- ⏲️: In my free time, I try to learn programming.
-
 - 📫: My discord is: rapozillha
 
 ---
