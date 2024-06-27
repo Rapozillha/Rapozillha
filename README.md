@@ -12,10 +12,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
   </a>
   <a href="https://www.twitch.tv/rapozillha">
-    <img src="https://img.shields.io/badge/Twitch-blueviolet?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://twitter.com/bernardo_c08">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitch-blueviolet?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
   </a>
 </div>
 
@@ -23,11 +20,11 @@
 
 ### 👨‍💻: About Me :
 
-- 🔭: 15 year old
+- 🔭: 16 years old
 
-- 🌍: Live in Portugal
+- 🌍: Portugal
 
-- 📫: My discord is: rapozillha
+- 📫: discord: rapozillha
 
 ---
 
