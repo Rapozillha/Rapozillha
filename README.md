@@ -7,18 +7,17 @@
   Olá! / Welcome!
 </h1>
 
-<div id="badges" align="center">
-  <!--
-  <a href="https://www.youtube.com/channel/UCsqRusYinmN4NRx6tvHN2NQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
-  </a>
-  -->
+<div id="badges" align="center">  
   <a href="https://www.twitch.tv/rapozillha">
-    <img src="https://img.shields.io/badge/Twitch-blueviolet?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
+    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCsqRusYinmN4NRx6tvHN2NQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
+  <a href="https://discord.com/users/488303133903028225">
+    <img src="https://raw.githubusercontent.com/Rapozillha/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/social%20media/discord/discord-horizontal.svg" alt="Discord"/>
   </a>
+  <a href="[https://www.youtube.com/channel/UCsqRusYinmN4NRx6tvHN2NQ](https://steamcommunity.com/id/rapozilha/)">
+    <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
+  </a>
+
 </div>
 
 ---
