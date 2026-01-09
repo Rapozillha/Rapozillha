@@ -16,6 +16,9 @@
   <a href="https://www.twitch.tv/rapozillha">
     <img src="https://img.shields.io/badge/Twitch-blueviolet?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
   </a>
+  <a href="https://www.youtube.com/channel/UCsqRusYinmN4NRx6tvHN2NQ">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
+  </a>
 </div>
 
 ---
@@ -24,8 +27,8 @@
 
 - 🔭: 17 anos / years old
 
-- 🌍: Portugal
-
+- 🌍: Portugal  <img src="https://raw.githubusercontent.com/Rapozillha/country-flags/3d5d2c5423b589b7cd9d31a4a79222775ea4cacd/svg/pt.svg" width="20" height="20"/>
+ 
 - 📫: bernardoccarvalheiro2008@gmail.com
 
 ---
