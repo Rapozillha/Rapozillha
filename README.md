@@ -14,7 +14,7 @@
   <a href="https://discord.com/users/488303133903028225">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="[https://www.youtube.com/channel/UCsqRusYinmN4NRx6tvHN2NQ](https://steamcommunity.com/id/rapozilha/)">
+  <a href="https://steamcommunity.com/id/rapozilha/">
     <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
   </a>
 
