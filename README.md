@@ -4,13 +4,15 @@
 </div>
 
 <h1 align="center">
-  Bem-Vindo / Welcome
+  Olá! / Welcome!
 </h1>
 
 <div id="badges" align="center">
+  <!--
   <a href="https://www.youtube.com/channel/UCsqRusYinmN4NRx6tvHN2NQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
   </a>
+  -->
   <a href="https://www.twitch.tv/rapozillha">
     <img src="https://img.shields.io/badge/Twitch-blueviolet?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
   </a>
@@ -18,13 +20,13 @@
 
 ---
 
-### 👨‍💻: About Me :
+### 👨‍💻: Sobre mim / About Me :
 
-- 🔭: 16 years old
+- 🔭: 17 anos / years old
 
 - 🌍: Portugal
 
-- 📫: discord: rapozillha
+- 📫: bernardoccarvalheiro2008@gmail.com
 
 ---
 <!-- Comentado
