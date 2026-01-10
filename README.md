@@ -10,7 +10,7 @@
 </div>
 
 <h1 align="center">
-  Olá! / Welcome!
+  Olá! / Hi! 👋
 </h1>
 
 <div id="badges" align="center">  
